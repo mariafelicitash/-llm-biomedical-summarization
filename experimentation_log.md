@@ -1,4 +1,4 @@
-# 🧠 Exploring Biomedical Summarization Pipelines with BART, BioBART, and FalconsAI 📚[Exploring Biomedical Summarization Pipelines with BART, BioBART, and FalconsAI.txt](https://github.com/user-attachments/files/28405508/Exploring.Biomedical.Summarization.Pipelines.with.BART.BioBART.and.FalconsAI.txt)
+# 🧠 Exploring Biomedical Summarization Pipelines with BART, BioBART, and FalconsAI 📚
 
 This project began as an NLP research experiment focused on biomedical text summarization using the `ccdv/pubmed-summarization` dataset. The initial objective was straightforward: compare the performance of general-purpose and domain-specialized transformer models on long-form scientific articles. However, as the implementation evolved, the project gradually shifted into a broader exploration of how model alignment, preprocessing strategies, and pipeline architecture interact in practical summarization systems. Rather than treating summarization as a purely model-centric task, the experimentation process revealed how strongly performance depends on the surrounding engineering decisions.
 
