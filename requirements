@@ -1,0 +1,7 @@
+## ⚙️ Requirements & Installation
+
+```bash
+pip install torch transformers datasets evaluate rouge-score gradio accelerate bitsandbytes sentencepiece pandas numpy matplotlib
+```
+
+> Recommended: Python 3.10+
